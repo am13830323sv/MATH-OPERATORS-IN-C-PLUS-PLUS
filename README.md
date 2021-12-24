@@ -1,6 +1,6 @@
 # MATH-OPERATORS-IN-C-PLUS-PLUS
 
-This Program Is A Program For Sampling Math Operator In C++ Programming Language.
+This Program Is A Program For Learning Math Operator In C++ Programming Language.
 
 Run Step By Step :
 
